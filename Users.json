@@ -1,0 +1,102 @@
+[
+  {
+    "username": "Rishabh Verma",
+    "email": "rishabh.verma@gmail.com",
+    "gender": "Male",
+    "age": "24",
+    "cb": "49500",
+    "address": "SHREEJI OF BLAIRSVILLE LLC 1058 KIUTUESTIA CREEK RD BLAIRSVILLE GA 30512-4331",
+    "occupation": "Web Developer",
+    "id": "a9e7d842"
+  },
+  {
+    "username": "Ankit Bhardwaj",
+    "email": "ankit.bhardwaj@gmail.com",
+    "gender": "Male",
+    "age": "24",
+    "cb": "520500",
+    "address": "CHEVRON 1405 CENTRAL AVE DEMOREST GA 30535-4554",
+    "occupation": "Engineer",
+    "id": "1b9116ad"
+  },
+  {
+    "username": "Aashi Singh",
+    "email": "aashi.singh@gmail.com",
+    "gender": "Female",
+    "age": "23",
+    "cb": "5000000",
+    "address": "PUBLIX SUPER MARKET # 540 139 COMMERCE AVE LAGRANGE GA 30241-2337",
+    "occupation": "Doctor",
+    "id": "1b9117ad"
+  },
+  {
+    "username": "Ankit Thakur",
+    "email": "ankit.Thakur@gmail.com",
+    "gender": "Male",
+    "age": "24",
+    "cb": "670000",
+    "address": "EASY TRIP NO.3, LLC 1204 WEST AVE CARTERSVILLE GA 30120-6301",
+    "occupation": "Actor",
+    "id": "1b6116ad"
+  },
+  {
+    "username": "Tanvi Kumar",
+    "email": "tanvi.kumar@gmail.com",
+    "gender": "Female",
+    "age": "24",
+    "cb": "495500",
+    "address": "FAMILY DOLLAR #397 4735 JONESBORO RD FOREST PARK GA 30297-4318",
+    "occupation": "HR",
+    "id": "3b6116ad"
+  },
+  {
+    "username": "Mahima Bhatia",
+    "email": "mahima.bhatia@gmail.com",
+    "gender": "Female",
+    "age": "24",
+    "cb": "904500",
+    "address": "MITT FOOD MART 2001 W HILL AVE VALDOSTA GA 31601-5113",
+    "occupation": "Analyst",
+    "id": "3b1116rd"
+  },
+  {
+    "username": "Dhruv Gupta",
+    "email": "dhruv.gupta@gmail.com",
+    "gender": "Male",
+    "age": "24",
+    "cb": "600000",
+    "address": "WALGREENS 06185 2220 HEWATT RD SNELLVILLE GA 30039-4021",
+    "occupation": "Marketing Analyst",
+    "id": "a9e45u42"
+  },
+  {
+    "username": "Paras Eachpilani",
+    "email": "paras.eachpilani@gmail.com",
+    "gender": "Male",
+    "age": "26",
+    "cb": "4000000",
+    "address": "WAL-MART SUPERCENTER #1181 1785 COBB PKWY S MARIETTA GA 30060-9288",
+    "occupation": "Tutor",
+    "id": "a9e45u77"
+  },
+  {
+    "username": "Muskaan Bhatia",
+    "email": "muskaan.bhatia@gmail.com",
+    "gender": "Female",
+    "age": "24",
+    "cb": "910000",
+    "address": "TAYLOR BROS X-PRESS 3938 US HIGHWAY 25 N HEPHZIBAH GA 30815-6820",
+    "occupation": "HR",
+    "id": "3b1116st"
+  },
+  {
+    "username": "Rishabh Garg",
+    "email": "rishabh.garg@gmail.com",
+    "gender": "Male",
+    "age": "24",
+    "cb": "656000",
+    "address": "PAIR OF JACKS 6600 WASHINGTON RD APPLING GA 30802-4102",
+    "occupation": "Marketing Associate",
+    "id": "a9e45u0o"
+  }
+]
